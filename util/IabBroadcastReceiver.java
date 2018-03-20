@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.example.rabbit.util;
+package com.ferenckovacsx.rabbit.util;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -26,9 +26,9 @@ import android.content.Intent;
  * <p>It is possible that an in-app item may be acquired without the
  * application calling getBuyIntent(), for example if the item can be
  * redeemed from inside the Play Store using a promotional code. If this
- * application isn't running at the time, then when it is started a call
+ * application isn't ic_launcher at the time, then when it is started a call
  * to getPurchases() will be sufficient notification. However, if the
- * application is already running in the background when the item is acquired,
+ * application is already ic_launcher in the background when the item is acquired,
  * a message to this BroadcastReceiver will indicate that the an item
  * has been acquired.</p>
  */

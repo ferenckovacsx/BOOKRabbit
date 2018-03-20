@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.example.rabbit.util;
+package com.ferenckovacsx.rabbit.util;
 
 import android.app.Activity;
 import android.app.PendingIntent;
@@ -29,8 +29,10 @@ import android.os.IBinder;
 import android.os.RemoteException;
 import android.text.TextUtils;
 import android.util.Log;
+import android.widget.Toast;
 
 import com.android.vending.billing.IInAppBillingService;
+import com.ferenckovacsx.rabbit.MainActivity;
 
 import org.json.JSONException;
 

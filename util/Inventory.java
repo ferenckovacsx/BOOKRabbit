@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.example.rabbit.util;
+package com.ferenckovacsx.rabbit.util;
 
 import java.util.ArrayList;
 import java.util.HashMap;

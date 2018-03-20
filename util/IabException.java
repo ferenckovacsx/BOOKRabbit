@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.example.rabbit.util;
+package com.ferenckovacsx.rabbit.util;
 
 /**
  * Exception thrown when something went wrong with in-app billing.

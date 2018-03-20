@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.example.rabbit.util;
+package com.ferenckovacsx.rabbit.util;
 
 /**
  * Represents the result of an in-app billing operation.
