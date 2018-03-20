@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BOOKR\'abbit</string>
+    <string name="dialog_title">Oh no! \nYou ran out of carrots. Buy more or subscribe for infinite carrots!</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="single_carrot">Single carrot</string>
+    <string name="run">Run</string>
+    <string name="run_forever">Run forever</string>
+    <string name="stop">Stop</string>
+    <string name="you_are_subscribed">You are subscribed. Yay!</string>
+    <string name="tap_here_to_subscribe">Hungry? Tap here to subscribe and get infinite carrots.</string>
+    <string name="tap_the_bunny">Tap the bunny to make it run. \nIt\'s a lazy rabbit though&#8230;it\'ll only run for 3 seconds, then you need to feed a carrot to it :)</string>
+</resources>
