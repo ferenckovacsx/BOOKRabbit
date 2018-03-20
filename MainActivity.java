@@ -345,7 +345,6 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 Log.e(TAG, "Error while consuming: " + result);
             }
-            Log.d(TAG, "End consumption flow.");
         }
     };
 }
